@@ -1,0 +1,10 @@
+Dina 110 Alharam 9 10 45
+Dina 130 Nasercity 9 16 49
+Dina 110 Agamy 9 49 42
+Dina 100 Agamy 9 56 8
+Dina 20 Nasercity 9 58 38
+Dina 198 fasal 10 8 24
+Dina 126 fasal 10 8 24
+Dina 198 Agamy 10 14 20
+Dina 99 Alharam 10 23 11
+Dina 99 Nasercity 10 45 29

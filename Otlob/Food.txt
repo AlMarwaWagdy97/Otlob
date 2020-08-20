@@ -1,0 +1,28 @@
+Mc-Donalds Mainmeal 1 2Cheeseburgar+Fries 100 
+Mc-Donalds Mainmeal 2 2Cheeseburgar+Drinks 110 
+Mc-Donalds Deesert 3 McFlurry-oreo 20 
+Mc-Donalds Deesert 4 Applepie 15 
+Mc-Donalds Side 5 Chikennugget 20 
+Mc-Donalds Side 6 Fries 15 
+Mc-Donalds Salade 7 Chickencaesar 50 
+Mc-Donalds Salade 8 Garden 40 
+Mc-Donalds Drinks 9 Milkshake 30 
+Mc-Donalds Drinks 10 Cocacola 20 
+KFC Mainmeal 1 chickenRice+sauceMeal 60
+KFC Mainmeal 2 crispyStrips+rice 70
+KFC Deesert 3 Applepie  25
+KFC Deesert 4 Chocletcake 30
+KFC Side 5 orientalRice 15
+KFC Side 6 riceBBq 25
+KFC Salade 7 creslow 25
+KFC Drinks 8 pepsi 15
+KFC Drinks 9 water 10
+Spectra
+PizzaHut
+Hardees
+AlDahan
+Chili's
+PapaJohn
+AubAuf
+Citycrep
+Cookdoor
